@@ -1,0 +1,11 @@
+{
+  "name": "Nora Real Food",
+  "description": "Nora Real Food extension for Wallapop",
+  "version": "0.2",
+  "manifest_version": 3,
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "landing.html",
+    "default_icon": "favicon.ico"
+  }
+}
